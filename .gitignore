@@ -1,0 +1,40 @@
+# Backend
+
+# Node.js backend dependencies
+/backend/node_modules/
+
+# Environment variables file (backend)
+/backend/.env
+
+# Ignore config.json with sensitive data (backend)
+/backend/config/config.json
+
+# Logs (backend)
+backend/*.log
+
+# Frontend
+
+# Node.js frontend dependencies
+/frontend/node_modules/
+
+# Build directories (frontend)
+/frontend/build/
+/frontend/dist/
+
+# Logs (frontend)
+frontend/*.log
+
+# Environment variables file (frontend, if exists)
+frontend/.env
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Editor directories and files
+.vscode/
+.idea/
+
+# Temporary files
+*.swp
+*.swo
