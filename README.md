@@ -14,5 +14,5 @@ Workspaces will allow users to hold text documents, images, canvasses, etc. all 
 
 **Client:** React, Redux, 
 
-**Server:** Node, Express, PG, PG-HStore, Sequelize, dotenv, BCrypt, JSonWebToken
+**Server:** Node, Express, PG, PG-HStore, Sequelize, dotenv, BCrypt, JSonWebToken, Nodemon
 
